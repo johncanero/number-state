@@ -4,12 +4,15 @@ body {
   padding: 50px;
   width: 300px;
   margin: 0 auto;
-  background-color: #374954;
+  background-color: #0cd2e4ea;
   text-align: center;
 }
 
 h1 {
   font-size: 100px;
+  color: #7c02ff97;
+  text-shadow: 1px 3px 1px #0093a0ea;
+  
 }
 
 .container {
@@ -18,7 +21,7 @@ h1 {
 
 button {
   display: inline-block;
-  background-color: #6bbe92;
+  background-color: #7c02ff97;
   border: 0;
   width: 60px;
   margin: 10px;
