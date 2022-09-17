@@ -8,7 +8,7 @@
 } -->
 
 <div align="center">
-  <a href="https://my-contacts-by-johncanero.vercel.app/" target="_blank">
+  <a href="https://number-state-by-johncanero.vercel.app/" target="_blank">
     <img alt="number-state" height="100" src="./src/images/countAbacusEmoji.png"/>
   </a>
 </div>
@@ -17,16 +17,16 @@
 
 # Number State - Count
 
-This is the My Contacts Project by Udemy - Web Development Bootcamp 2022
+This is the Number State - Count Project on Udemy - Web Development Bootcamp 2022
 
-It is made with React JS utilizing the Props Feature. 
+It is made with React JS utilizing the State Hook in React.
 
-My Contacts: Lionel Messi, Cristiano Ronaldo and Ronaldhino. 
+Increase and Decrease Button ( +1 and -1 ).
 </div>
 
 ## Website
 
-🖥️ [https://my-contacts-by-johncanero.vercel.app/]
+🖥️ [https://number-state-by-johncanero.vercel.app/]
 
 ✍️ Project by John Cañero
 
