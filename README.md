@@ -19,9 +19,8 @@
 
 This is the Number State - Count Project on Udemy - Web Development Bootcamp 2022
 
-It is made with React JS utilizing the State Hook in React.
-
-Increase and Decrease Button ( +1 and -1 ).
+It is made with React JS utilizing the State Hook in React. Increase and 
+Decrease Button ( +1 and -1 ).
 </div>
 
 ## Website
