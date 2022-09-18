@@ -33,7 +33,7 @@ Decrease Button ( +1 and -1 ).
 
 🪟: [Desktop - Tablet - Mobile]
 
-![Desktop View - My Contacts](./src/images/desktopView.png)
-![Tablet View - My Contacts](./src/images/tabletView.png)
-![Mobile View - My Contacts](./src/images/mobileView.png)
-![Code View - My Contacts](./src/images/codeView.png)
+![Desktop View - Number State Count](./src/images/desktopView.png)
+![Tablet View - Number State Count](./src/images/tabletView.png)
+![Mobile View - Number State Count](./src/images/mobileView.png)
+![Code View - Number State Count](./src/images/codeView.png)
